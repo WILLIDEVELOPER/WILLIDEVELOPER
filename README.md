@@ -71,8 +71,8 @@ I am William Soto, a passionate full-stack developer specializing in JavaScript 
 <br> 
 
 <p align="center">
-    <a href="https://github.com/AmardeepKesharwani"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmardeepKesharwani&theme=tokyonight&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
-<a href="https://github.com/AmardeepKesharwani"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amardeepkesharwani&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="AmardeepKesharwani"/></a>
+    <a href="https://github.com/WILLIDEVELOPER"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WILLIDEVELOPER&theme=tokyonight&hide_border=true"  width="520" alt="WILLIDEVELOPER"/></a>
+<a href="https://github.com/WILLIDEVELOPER"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WILLIDEVELOPER&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="WILLIDEVELOPER"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b>
