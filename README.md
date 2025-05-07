@@ -2,7 +2,7 @@
 ### **Full Stack JavaScript Developer**  
 
 <div align="center">
-  <img src="https://github.com/WILLIDEVELOPER/WILLIDEVELOPER/blob/main/williamImageGit.png" width="100%">
+  <img src="https://github.com/WILLIDEVELOPER/WILLIDEVELOPER/blob/main/williamPresentation.png" width="100%" h="60%">
   <br />
   <div>
     <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
